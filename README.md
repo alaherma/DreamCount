@@ -3,6 +3,7 @@ This will contains a webpage that will gather, count and display how many dreams
 
  - Dream Counter  
  - Form to collect new dreams and dreamers  
- - Previewsly achived dreams with fotos and story  
+ - Previewsly achived dreams with fotos and story 
+ - Recommended Resources
 
 
